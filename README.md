@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRycTVweXg1dDdxNnBnZ2EyNzkwZm02emJzc3Jjd2E3cXIxanRwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif">
 - 🌱 I’m currently learning **react**
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **javascript**
 
 - 📫 How to reach me **letsmail.khinekhant@gmail.com**
 
