@@ -1,4 +1,4 @@
-<h1 align="center">Yo!, I'm Khine Khant</h1>
+<h1 align="center">Yo! , I'm Khine Khant</h1>
 <h3 align="center">A passionate full-stack developer from Myanmar</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knsxw&label=Profile%20views&color=0e75b6&style=flat" alt="knsxw" /> </p>
