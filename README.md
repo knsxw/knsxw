@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knsxw&label=Profile%20views&color=0e75b6&style=flat" alt="knsxw" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=knsxw" alt="knsxw" /></a> </p>
 
 - 🔭 I’m currently working on [IpTracker](https://knsxw.github.io/IpAddressTracker/)
 
