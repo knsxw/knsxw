@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Myanmar</h3>
 
 <p align="center">
-<img width="1000" height="200" src="[https://cdn.weasyl.com/static/media/7b/fd/3c/7bfd3ca38b05f745b218f11fb5efd7dc715059ed9ee327ed6003b9178474a6c9.gif](https://www.tumblr.com/valenberg/142420848259/animated-banner-artwork-for-the-great-rolly)" alt="my banner">
+<img width="1000" height="200" src="https://cdn.weasyl.com/static/media/7b/fd/3c/7bfd3ca38b05f745b218f11fb5efd7dc715059ed9ee327ed6003b9178474a6c9.gif" alt="my banner">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knsxw&label=Profile%20views&color=0e75b6&style=flat" alt="knsxw" /> </p>
 
