@@ -1,9 +1,10 @@
+![image](https://github.com/user-attachments/assets/d7a1c33b-502b-4582-a706-0391b4cfcc2b)![image](https://github.com/user-attachments/assets/89150581-2786-45d8-9d79-03a4817f47b7)<p align="center">
+<img width="1000" height="200" src="https://static.myfigurecollection.net/upload/pictures/2023/09/07/3745732.gif" alt="my banner">
+</p>
 <h1 align="center">Hi there, I'm Khine Khant👋</h1>
 <h3 align="center">A passionate full-stack developer from Myanmar</h3>
 
-<p align="center">
-<img width="1000" height="200" src="https://cdn.weasyl.com/static/media/7b/fd/3c/7bfd3ca38b05f745b218f11fb5efd7dc715059ed9ee327ed6003b9178474a6c9.gif" alt="my banner">
-</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knsxw&label=Profile%20views&color=0e75b6&style=flat" alt="knsxw" /> </p>
 
 
