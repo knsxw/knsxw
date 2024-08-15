@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d7a1c33b-502b-4582-a706-0391b4cfcc2b)![image](https://github.com/user-attachments/assets/89150581-2786-45d8-9d79-03a4817f47b7)<p align="center">
+<p align="center">
 <img width="1000" height="200" src="https://static.myfigurecollection.net/upload/pictures/2023/09/07/3745732.gif" alt="my banner">
 </p>
 <h1 align="center">Hi there, I'm Khine Khant👋</h1>
