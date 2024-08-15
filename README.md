@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1000" height="200" src="https://static.myfigurecollection.net/upload/pictures/2023/09/07/3745732.gif" alt="my banner">
+<img width="1000" height="400" src="https://i.pinimg.com/originals/52/18/9c/52189c28e68e7712f74b7c1eb26b1f86.gif" alt="my banner">
 </p>
 <h1 align="center">Hi there, I'm Khine Khant👋</h1>
 <h3 align="center">A passionate full-stack developer from Myanmar</h3>
