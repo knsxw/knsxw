@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi there, I'm Khine Khant👋</h1>
 <h3 align="center">A passionate full-stack developer from Myanmar</h3>
-<img width="500" height="300" align="right" src="https://64.media.tumblr.com/e13b776f7f210a7199dd0fe24dba49bd/4b0e9200d5bc8d3d-39/s1280x1920/dd468fe973efb2b33e8f95e02e0b8d1c19f21631.gifv" alt="my profile">
+<img width="400" align="right" src="https://64.media.tumblr.com/e13b776f7f210a7199dd0fe24dba49bd/4b0e9200d5bc8d3d-39/s1280x1920/dd468fe973efb2b33e8f95e02e0b8d1c19f21631.gifv" alt="my profile">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knsxw&label=Profile%20views&color=0e75b6&style=flat" alt="knsxw" /> </p>
 
