@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knsxw&label=Profile%20views&color=0e75b6&style=flat" alt="knsxw" /> </p>
 
 
-- 🔭 I’m currently working on [IpTracker](https://knsxw.github.io/IpAddressTracker/)
+- 🔭 I’m currently working on [ShoppingCart](https://shopping.ksx.me/)
 
 - 🌱 I’m currently learning **Javascript**
 
