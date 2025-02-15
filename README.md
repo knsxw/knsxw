@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [ShoppingCart](https://shoppingcart.ksx.me/)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **letsmail.khinekhant@gmail.com**
 
